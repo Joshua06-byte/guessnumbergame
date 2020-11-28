@@ -1,6 +1,6 @@
 from random import randint
 n = (randint(1,100))
-print(n)
+#print(n)
 
 while True: 
     number = (int(input("please try and guess a number between 1 and 100: ")))
